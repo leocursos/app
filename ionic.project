@@ -1,6 +1,6 @@
 {
-  "name": "moodlemobile2",
-  "app_id": "",
+  "name": "leocursos",
+  "app_id": "br.com.cursos.leolivros",
   "gulpStartupTasks": [
     "build",
     "sass",
